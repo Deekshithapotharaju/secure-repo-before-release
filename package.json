@@ -1,0 +1,12 @@
+{
+  "name": "secure-repo-demo",
+  "version": "1.0.0",
+  "description": "DevSecOps demo for securing a repo before release",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.19"
+  }
+}
